@@ -1,1 +1,1 @@
-# komitet-kofeinowy-js
+# Sklep komitetu kofeinowego
